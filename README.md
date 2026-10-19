@@ -95,10 +95,7 @@ The work involved evaluating communication patterns, clarifying service responsi
 
 ## Further Reading
 
-- [Architecture](docs/architecture.md)
-- [Workflow Reliability](docs/workflow-reliability.md)
-- [Architecture Decisions and Trade-offs](docs/decisions-and-tradeoffs.md)
-- [Architecture Diagram](diagrams/architecture.mmd)
+- [Architecture Diagram](mermain-diagram.png)
 
 ---
 
